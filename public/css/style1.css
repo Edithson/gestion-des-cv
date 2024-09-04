@@ -1,0 +1,46 @@
+body{
+    padding: 10px;
+}
+section{
+    padding: 20px;
+    width: 90%;
+    height: 100%;
+    background-color: rgb(233, 233, 233);
+    margin: 0 auto;
+}
+.mini_conteneur, .div_btn{
+    width: 80%;
+    margin: 0 auto;
+}
+
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+form{
+    width: 60%;
+    margin: 0 auto;
+}
+.info{
+    display: block;
+}
+.profil_photo{
+    float: left;
+    margin-right: 20px;
+    margin-top: 50px;
+    border-radius: 130px;
+    width: 240px;
+    height: 240px;
+}
+.image-mini{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
+.edit{
+    float: left;
+    margin-right: 10px;
+}
